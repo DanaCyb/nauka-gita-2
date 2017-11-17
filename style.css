@@ -1,0 +1,45 @@
+body {
+	padding-top: 20px;
+}
+.container {
+	padding-top: 20px;
+}
+img {
+	width: 100%;
+	margin: 0 auto;
+}
+.tab-pane {
+	padding-top: 20px;
+	text-align: justify;
+	margin: 0 auto;
+}
+.icon-btn {
+	width: 65px;
+	height: 65px;
+	border: 0;
+	border-radius:50%;
+	color: #FFFFFF;
+	margin: 10px;
+	cursor: pointer;
+	font-size: 40px;
+}
+.twitter {
+	color: #4099FF;
+}
+.facebook {
+	color: #3B5998;
+}
+.google-plus {
+	color: #DB5A3C;
+}
+.instagram {
+	color: #5C3D2E;
+}
+.youtube {
+	color:#F44336;
+}
+.footer {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 20px;
+}
